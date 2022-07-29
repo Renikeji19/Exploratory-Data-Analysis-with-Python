@@ -1,4 +1,4 @@
-# HSDC-Introduction-to-Python-for-Machine-Learning-EDA-Quiz-Code
+# HDSC-Introduction-to-Python-for-Machine-Learning-EDA-Quiz-Code
 
 Exploratory Data Analysis on a dataset provided by the Food and Agriculture Organization of the United Nations
 
